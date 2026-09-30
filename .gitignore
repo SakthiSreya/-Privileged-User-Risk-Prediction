@@ -1,0 +1,10 @@
+data/logon.csv
+data/device.csv
+data/file.csv
+data/email.csv
+data/http.csv
+data/psychometric.csv
+data/features.csv
+data/test_scores.csv
+.vscode/
+__pycache__/

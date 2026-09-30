@@ -1,0 +1,9 @@
+subset,model,precision,recall(detection rate),f1,FPR,FNR,PR-AUC,TP,FP,FN
+all users,IsolationForest,0.0089,0.1833,0.0169,0.0882,0.8167,0.0117,66,7372,294
+admins only,IsolationForest,0.0035,1.0,0.007,0.9655,0.0,0.0073,8,2269,0
+all users,RandomForest,0.6196,0.7917,0.6951,0.0021,0.2083,0.7038,285,175,75
+admins only,RandomForest,0.3125,0.625,0.4167,0.0047,0.375,0.4789,5,11,3
+all users,XGBoost,0.4753,0.8278,0.6039,0.0039,0.1722,0.673,298,329,62
+admins only,XGBoost,0.2,0.75,0.3158,0.0102,0.25,0.5679,6,24,2
+all users,Ensemble,0.4826,0.85,0.6157,0.0039,0.15,0.7141,306,328,54
+admins only,Ensemble,0.2,0.75,0.3158,0.0102,0.25,0.5273,6,24,2

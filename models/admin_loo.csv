@@ -1,0 +1,13 @@
+user,attack_days,caught_days,normal_days,false_alarms,detected
+BBS0039,2,1,155,0,True
+BSS0369,2,0,237,0,False
+CCA0046,2,1,199,6,True
+CSC0217,2,2,111,0,True
+GTD0219,2,0,116,1,False
+JGT0221,2,2,135,0,True
+JLM0364,2,2,333,0,True
+JTM0223,2,2,140,0,True
+MOS0047,41,1,135,1,True
+MPM0220,2,0,215,0,False
+MSO0222,2,2,237,0,True
+WDD0366,6,5,302,9,True
